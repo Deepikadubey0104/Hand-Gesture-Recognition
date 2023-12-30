@@ -25,6 +25,7 @@ Run “pip install tensorflow” to install the tensorflow module.
 
 
 Steps to solve this project:
+
     a.)Import necessary packages.
     b.)Initialize models.
     c.)Read frames from a webcam.
